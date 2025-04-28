@@ -1,3 +1,7 @@
+NAME: RANJANI K
+
+REG NO: 212224230220
+
 # EX-26-AREA-OF-RECTANGLE-USING- POINTER
 ## AIM
 To write a C Program to find area of rectangle using pointer.
@@ -10,8 +14,10 @@ To write a C Program to find area of rectangle using pointer.
 5.	Stop the program.
 
 ## PROGRAM
+![image](https://github.com/user-attachments/assets/5d16c7d2-7623-4d9d-8dd7-b942a6ec4d7b)
 
 ## OUTPUT
+![image](https://github.com/user-attachments/assets/57dd155a-bd4d-49c1-b6e9-4a26fffc62d5)
 		       	
 
 
@@ -34,8 +40,10 @@ To write a C Program to print 'WELCOME' using malloc() and free().
 6.	Stop the program.
 
 ## PROGRAM
+![image](https://github.com/user-attachments/assets/7a1ce1d0-fef9-461b-9017-ae31a1f0d686)
 
 ## OUTPUT
+![image](https://github.com/user-attachments/assets/c3b81700-905b-4d4f-8bfb-5f6296337e58)
 
 
 
@@ -60,9 +68,11 @@ To write a C Program to store the student information and display it using struc
 4.	Stop the program.
 
 ## PROGRAM
+![image](https://github.com/user-attachments/assets/b1080892-d168-4fcb-b6b7-c07f69bd32e5)
 
 
 ## OUTPUT
+![image](https://github.com/user-attachments/assets/428300d3-ddc0-4918-8bea-1058066d2cbf)
 
 
 ## RESULT
@@ -87,11 +97,13 @@ To write a C Program to read and store the data of 3 employees and calculate the
 5.	Stop the program.
 
 ## PROGRAM
+![image](https://github.com/user-attachments/assets/7553e309-d14a-4a67-ac02-321086d5f279)
 
 
  ## OUTPUT
 
- 
+ ![image](https://github.com/user-attachments/assets/98a5bbed-0db7-481f-a64b-44d8707314f5)
+
 
 ## RESULT
 
@@ -134,9 +146,11 @@ Step 7: Output Loop (i = 0 to 1):
 Step 8: End the program.
 
 ## PROGRAM
+![image](https://github.com/user-attachments/assets/9c7d63aa-af03-441e-a56f-7d29d197c48a)
 
 
 ## OUTPUT
+![image](https://github.com/user-attachments/assets/c1bc25fa-239e-45e9-8849-ad489f5b26cd)
 
  
 
